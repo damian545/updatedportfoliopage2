@@ -1,6 +1,10 @@
 body {
-  background-image: url("https://images.unsplash.com/photo-1519972064555-542444e71b54?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+  background-image: url("https://33.media.tumblr.com/f7e2d3a535296a981a9443b5bb096867/tumblr_npj0o6CGgu1s5tqvpo2_500.gif");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
+
 h1,
 h2 {
   text-shadow: 3px 3px black;
