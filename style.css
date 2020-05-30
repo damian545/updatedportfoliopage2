@@ -121,9 +121,7 @@ img:hover {
 .dropdown:hover .dropbtn {
   background-color: red;
 }
-a {
-  color: blue;
-}
+
 h {
   color: yellow;
 }
