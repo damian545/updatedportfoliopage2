@@ -1,3 +1,5 @@
+document.write(Date());
+
 filterSelection("all");
 function filterSelection(c) {
   var x, i;
